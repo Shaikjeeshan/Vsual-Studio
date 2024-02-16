@@ -1,0 +1,24 @@
+.page-body{
+    height:100dvh;
+    width:100dvw;
+    background-color:rgb(186,213,213);
+}
+.head{
+    width:100%;
+    height:10%;
+    background-color:rgb(136, 193, 193);
+}
+.content{
+    display:flex;
+    justify-content: space-between;
+}
+.side-bar{
+    height:100dvh;
+    width:10%;
+    background-color:rgb(92, 57, 12);
+}
+.footer{
+    height:10%;
+    width:100%;
+    background-color:rgb(9, 2, 2);
+}
